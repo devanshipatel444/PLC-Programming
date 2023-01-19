@@ -1,0 +1,359 @@
+FILE,LAD 2
+SOR,0 XIC,I:1/0 OTL,O:2/1 EOR,0
+RCM,
+SOR,1 XIC,I:1/5 CTU,C5:0,153 EOR,1
+RCM,
+SOR,2 XIC,C5:0/DN BST,1 OTU,O:2/1 NXB,1 OTL,O:2/2 BND,1 EOR,2
+RCM,
+SOR,3 XIC,I:1/6 CTU,C5:1,153 EOR,3
+RCM,
+SOR,4 XIC,C5:1/DN BST,1 OTU,O:2/2 NXB,1 BST,2 OTE,O:2/0 NXB,2 XIO,I:1/2 OTE,O:2/4 BND,2 BND,1 EOR,4
+RCM,
+SOR,5 XIC,O:2/0 TON,T4:0,60 EOR,5
+RCM,
+SOR,6 BST,1 XIC,T4:0/DN NXB,1 XIC,I:1/10 XIC,I:1/0 BND,1 OTL,O:2/3 EOR,6
+RCM,
+SOR,7 XIC,I:1/10 XIC,I:1/0 EOR,7
+RCM,
+SOR,8 XIC,I:1/7 CTU,C5:2,306 EOR,8
+RCM,
+SOR,9 XIC,C5:2/DN BST,1 OTU,O:2/3 NXB,1 BST,2 RES,C5:0 NXB,2 BST,3 RES,C5:1 NXB,3 BST,4 RES,T4:0 NXB,4 RES,C5:2 BND,4 BND,3 BND,2 BND,1 EOR,9
+RCM,
+SOR,10 END,10
+RCM,
+FILE,SBR 3:
+SOR,0 END,0
+RCM,
+FILE,SBR 4:
+SOR,0 END,0
+RCM,
+FILE,SBR 5:
+SOR,0 END,0
+RCM,
+FILE,SBR 6:
+SOR,0 END,0
+RCM,
+FILE,SBR 7:
+SOR,0 END,0
+RCM,
+FILE,SBR 8:
+SOR,0 END,0
+RCM,
+FILE,SBR 9:
+SOR,0 END,0
+RCM,
+BTBL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NTBL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+FTBL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+SYMBOLS
+I:1/0 START SWIITCH
+O:2/1 PUMP 1
+I:1/5 FM 1
+O:2/2 PUMP 2
+I:1/6 FM 2
+O:2/0 MIXER
+I:1/2 THERMOS
+O:2/4 HEATER
+I:1/7 FM 3
+O:2/3 PUMP 3
+I:1/10 B MANUAL
