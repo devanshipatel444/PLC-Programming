@@ -26,6 +26,6 @@ One other project, was a traffic light stimulation. I unfortunately did not save
 
 ![image](https://user-images.githubusercontent.com/122767601/213376086-208d3b24-f744-4ef7-a0d3-46b66a6131c3.png)
 
-Overall, PLC programming, though really does not have anything to do with pyhton, java and "real" coding, it have me a real life insight on projects. I was able to research and use input and output buts, timers and some elements from electricity. It really taught me how much thinking goes into everything. Even a simple traffic light intersection that we tend to overlook has so much thinking into it. You are constantly thinking about different use cases and conditions. I was able to open my mind into programming in a very practical and realisitic way. 
+Overall, PLC programming, have me a real life insight on projects and allowed me to try something new. I was able to research and use input and output bits, timers and some elements from electricity. It really taught me how much thinking goes into everything. Even a simple traffic light intersection that we tend to overlook has so much thinking into it. You are constantly thinking about different use cases and conditions. I was able to open my mind into programming in a very practical and realisitic way. 
 
 
